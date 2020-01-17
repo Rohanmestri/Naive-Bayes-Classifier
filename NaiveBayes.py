@@ -49,7 +49,7 @@ class NaiveBayes():
             values.append(i)
             count+=1
 
-    #Data wrang
+    #Convert raw data
     x_train = {z: [] for z in attributes}
     y_train = []
       
