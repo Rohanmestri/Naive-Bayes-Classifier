@@ -13,7 +13,7 @@ Implemented a Naive Bayes Classifier in Python which is trained and tested on th
 
 ## How to use?
 - In the src folder, run the NaiveBayes.py using the following arguments:
-       python NaiveBayes.py [name_of_train_file] [name_of_test_file] 
+                               python NaiveBayes.py [name_of_train_file] [name_of_test_file] 
        
 - The code prints the accuracy on the test set and the confusion matrix for the test set.
 
